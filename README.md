@@ -11,14 +11,22 @@ Promise based HTTP client for the browser and node.js
 
 ## Features - 特征
 
-- Make [XMLHttpRequests](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) from the browser
+- Make [XMLHttpRequests](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) from the browser 
+- 从浏览器发送[XMLHttpRequests](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 - Make [http](http://nodejs.org/api/http.html) requests from node.js
+- 从node.js发送[http](http://nodejs.org/api/http.html)请求
 - Supports the [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) API
+- 支持 [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) API
 - Intercept request and response
+- 拦截请求及响应
 - Transform request and response data
+- 改造请求和响应数据
 - Cancel requests
+- 取消请求
 - Automatic transforms for JSON data
+- 自动转换JSON数据
 - Client side support for protecting against [XSRF](http://en.wikipedia.org/wiki/Cross-site_request_forgery)
+- 防范客户端[XSRF](http://en.wikipedia.org/wiki/Cross-site_request_forgery)
 
 ## Browser Support
 
