@@ -7,8 +7,9 @@
 [![gitter chat](https://img.shields.io/gitter/room/mzabriskie/axios.svg?style=flat-square)](https://gitter.im/mzabriskie/axios)
 
 Promise based HTTP client for the browser and node.js
+基于Promise的浏览器和node.js的HTTP 客户端
 
-## Features
+## Features - 特征
 
 - Make [XMLHttpRequests](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) from the browser
 - Make [http](http://nodejs.org/api/http.html) requests from node.js
